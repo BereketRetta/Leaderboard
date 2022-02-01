@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> Leadership project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- JavaScript
+- Webpack
 
 ## Live Demo (if available)
 
@@ -24,14 +24,13 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
-
+git clone https://github.com/BereketRetta/Leaderboard.git
+cd Leaderboard
 ### Install
-
+yarn or npm install .
 ### Usage
-
+yarn build
 ### Run tests
 
 ### Deployment
@@ -42,15 +41,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@bereketretta](https://github.com/BereketRetta)
+- Twitter: [@bekiopia](https://twitter.com/bekiopia)
+- LinkedIn: [BereketRetta](https://linkedin.com/in/bereket-retta)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
