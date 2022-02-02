@@ -11,11 +11,6 @@
 - JavaScript
 - Webpack
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -27,15 +22,10 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 git clone https://github.com/BereketRetta/Leaderboard.git
 cd Leaderboard
+yarn build or npm run build 
+yarn start or npm start
 ### Install
 yarn or npm install .
-### Usage
-yarn build
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
